@@ -23,18 +23,18 @@ ul {
 }
 
    li {
-    font-size: 1.4rem;
+    font-size: 1rem;
     list-style: none;
    }
 
    .navbar {
     width: 100vw;
-    height: 6vw;
+    height: 10vw;
     background-color: #000;
     display: flex;
     justify-content: space-between;
     padding: 20px; 
-    align-items: center;
+   align-items: center;
    }
    .nav-links a {
    color: #fff;
